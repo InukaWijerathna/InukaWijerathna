@@ -43,15 +43,15 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oslemcihan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oslemcihan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oinukn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inukawijerathna&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
 ---
 
 ###
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oslemcihan&theme=tokyonight&hide_border=true&border_radius=15" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=inukawijerathna&theme=tokyonight&hide_border=true&border_radius=15" height="200"/>
 </p>
 
 ---
@@ -59,9 +59,9 @@
 ###
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oslemcihan/oslemcihan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oslemcihan/oslemcihan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oslemcihan/oslemcihan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inukawijerathna/inukawijerathna/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inukawijerathna/inukawijerathna/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inukawijerathna/inukawijerathna/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
