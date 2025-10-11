@@ -26,9 +26,8 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,,html,css,js,wordpress,mysql,windows,linux,arduino" />
-  <img src="https://skillicons.dev/icons?i=ps,ai," />
-  <img src="https://skillicons.dev/icons?i=ps,ai," />
+  <img src="https://skillicons.dev/icons?i=java,py,,html,css,js,wordpress,,mysql,,windows,linux,,arduino,,ps,ai," />
+
 
 </p>
 
