@@ -20,7 +20,7 @@
 
 ### Reach Me on
 - 📧 **inukawijerathna210@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/inuka-wijerathna/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/InukaWijerathna/)  
 
 ---
 
