@@ -1,22 +1,9 @@
 <h1 align="center">Hi, I'm Inuka </h1>
-<h3 align="center">A motivated Computer Science undergraduate passionate about software development, full-stack solutions, and cutting-edge technology</h3>
-
-<!--
----
-
-### Currently Learning
-- **JA · SwiftUI · iOS Development**
-- **React · JavaScript · TailwindCSS**
-- **Java · Spring Boot (Backend)**
-
----
-
-### Ask Me About
-- iOS Development with Swift
-- Frontend (React, JavaScript, TailwindCSS)
-- Backend (Java, Spring Boot)
--->
----
+<h3 align="center">A Computer Science undergraduate passionate about software development, full-stack solutions, and cutting-edge technology</h3>
+</br>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
+</p>
 
 ### Reach Me on
 - 📧 **inukawijerathna210@gmail.com**  
@@ -30,21 +17,3 @@
 
 
 </p>
-
----
-
-###
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inukawijerathna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inukawijerathna&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-</p>
-
----
-
-###
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=inukawijerathna&theme=tokyonight&hide_border=true&border_radius=15" height="200"/>
-</p>
-
----
-
