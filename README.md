@@ -13,8 +13,8 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,angular,,ps,ai,figma," />
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,angular,,ps,ai,figma," />\n
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" /> 
 
 
 
