@@ -13,7 +13,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,wordpress,mysql,,ps,ai," />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,angular,,ps,ai,figma," />
 
 
 </p>
