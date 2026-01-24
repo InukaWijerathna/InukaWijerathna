@@ -14,7 +14,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,mysql,,ps,ai,figma," /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,mysql,,ps,ai,figma," /><br>
     <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" /> 
 
 
