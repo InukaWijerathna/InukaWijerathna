@@ -8,8 +8,7 @@
 ### Reach Me on
 - 📧 **inukawijerathna210@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/InukaWijerathna/)  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="inukawijerathna" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/inukawijerathna?trk=profile-badge">Inuka Wijerathna</a></div>
-              
+
 ---
 
 ### Tech Stack
