@@ -14,7 +14,13 @@
 ### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,mysql,,ps,ai,figma," />
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" /> 
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InukaWijerathna&layout=donut&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&border_color=30363D" width="43%" alt="InukaWijeratha Languages" />
+</p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InukaWijerathna&theme=github_dark" width="92%" alt="Profile Summary" />
