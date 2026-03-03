@@ -16,6 +16,9 @@
   <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,mysql,,ps,ai,figma," />
     <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode" /> 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InukaWijerathna&bg_color=0D1117&color=C9D1D9&line=2EA043&point=2EA043&area=true&hide_border=true" />
+</p>
 
 
 </p>
