@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inukawijerathna&bg_color=0d1117&color=2986cc&line=70d564&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inukawijerathna&bg_color=0d1117&color=2986cc&line=1F76B8&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 
