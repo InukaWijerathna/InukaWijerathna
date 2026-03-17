@@ -5,12 +5,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
 </p>
 
-### Reach Me on
-<div align="left">
-<a href="mailto:inukawijerathna210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/inukawijerathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  
-
 ---
 
 ### Tech Stack
@@ -31,5 +25,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inukawijerathna&bg_color=0d1117&color=2986cc&line=1f6feb&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-
 </p>
+
+---
+### Reach Me on
+<div align="left">
+<a href="mailto:inukawijerathna210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/inukawijerathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
