@@ -23,12 +23,12 @@
 
 ### My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2986cc&text_color=C9D1D9&icon_color=2EA043&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" /> &ensp;&ensp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InukaWijerathna&layout=donut&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&border_color=30363D" width="43%" alt="InukaWijeratha Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2986cc&text_color=C9D1D9&icon_color=2986cc&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" /> &ensp;&ensp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InukaWijerathna&layout=donut&bg_color=0D1117&title_color=2986cc&text_color=C9D1D9&border_color=30363D" width="43%" alt="InukaWijeratha Languages" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inukawijerathna&bg_color=0d1117&color=70d564&line=70d564&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inukawijerathna&bg_color=0d1117&color=2986cc&line=70d564&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 
