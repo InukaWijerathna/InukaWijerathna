@@ -23,7 +23,7 @@
 
 ### My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&icon_color=2EA043&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" /> &ensp;&ensp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2986cc &text_color=C9D1D9&icon_color=2EA043&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" /> &ensp;&ensp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InukaWijerathna&layout=donut&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9&border_color=30363D" width="43%" alt="InukaWijeratha Languages" />
 </p>
 
