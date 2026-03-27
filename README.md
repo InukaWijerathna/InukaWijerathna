@@ -22,6 +22,8 @@
 
 ### My GitHub Stats
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InukaWijerathna&color=2986cc&style=for-the-badge&base=1000" alt="Profile views" />
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=InukaWijerathna&show_icons=true&bg_color=0D1117&title_color=2986cc&text_color=C9D1D9&icon_color=2986cc&border_color=30363D&count_private=true" width="48%" alt="InukaWijerathna Stats" /> &ensp;&ensp;
   
 </p>
