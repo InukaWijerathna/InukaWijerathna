@@ -14,8 +14,8 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,dotnet,flutter,firebase,mysql" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,,idea,pycharm,visualstudio,vscode,docker,androidstudio,eclipse,postman" />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,,html,css,js,ts,react,angular,vite,dotnet,flutter,fastapi,,firebase,supabase,mysql" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,,idea,pycharm,visualstudio,vscode,docker,jenkins,androidstudio,eclipse,postman" />
 </p>
 
 ---
