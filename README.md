@@ -8,8 +8,7 @@
 ### Reach Me on
 <div align="left">
 <a href="mailto:inukawijerathna210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/inukawijerathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/InukaWijerathna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.linkedin.com/in/inukawijerathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
@@ -18,10 +17,10 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **Alexandria** | Library Management System — Node.js/React + SQLite | [Demo](https://inukawijerathna.me/Alexandria/) · [Repo](https://github.com/InukaWijerathna/Alexandria) |
-| **AUREM** | Full-stack e-commerce platform — MERN stack | [Demo](https://aurem-store.vercel.app/) · [Repo](https://github.com/InukaWijerathna/AUREM) |
-| **LogLense** | Smart CLI log parser, filter, and watcher | [Repo](https://github.com/InukaWijerathna/LogLense) |
-| **FNPP-Analyzer** | Windows host-based threat detector with a TUI | [Repo](https://github.com/InukaWijerathna/FNPP-Analyzer) |
+| **Alexandria** | Library Management System — Node.js/React + SQLite | [🔗](https://inukawijerathna.me/Alexandria/) [💻](https://github.com/InukaWijerathna/Alexandria) |
+| **AUREM** | Full-stack e-commerce platform — MERN stack | [🔗](https://aurem-store.vercel.app/) [💻](https://github.com/InukaWijerathna/AUREM) |
+| **LogLense** | Smart CLI log parser, filter, and watcher | [💻](https://github.com/InukaWijerathna/LogLense) |
+| **FNPP-Analyzer** | Windows host-based threat detector with a TUI | [💻](https://github.com/InukaWijerathna/FNPP-Analyzer) |
 
 </div>
 
