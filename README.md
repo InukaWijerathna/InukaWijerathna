@@ -12,20 +12,6 @@
 
 ---
 
-### Featured Projects
-<div align="center">
-
-| Project | Description | Links |
-|---|---|---|
-| **Alexandria** | Library Management System — Node.js/React + SQLite | [🔗](https://inukawijerathna.me/Alexandria/) <a href="https://github.com/InukaWijerathna/Alexandria"><img src="https://img.shields.io/static/v1?label=&message=%20&color=181717&logo=github&logoColor=white&style=flat-square" height="20" alt="Repo"></a> |
-| **AUREM** | Full-stack e-commerce platform — MERN stack | [🔗](https://aurem-store.vercel.app/) <a href="https://github.com/InukaWijerathna/AUREM"><img src="https://img.shields.io/static/v1?label=&message=%20&color=181717&logo=github&logoColor=white&style=flat-square" height="20" alt="Repo"></a> |
-| **LogLense** | Smart CLI log parser, filter, and watcher | <a href="https://github.com/InukaWijerathna/LogLense"><img src="https://img.shields.io/static/v1?label=&message=%20&color=181717&logo=github&logoColor=white&style=flat-square" height="20" alt="Repo"></a> |
-| **FNPP-Analyzer** | Windows host-based threat detector with a TUI | <a href="https://github.com/InukaWijerathna/FNPP-Analyzer"><img src="https://img.shields.io/static/v1?label=&message=%20&color=181717&logo=github&logoColor=white&style=flat-square" height="20" alt="Repo"></a> |
-
-</div>
-
----
-
 ### Tech Stack
 <p align="center">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
