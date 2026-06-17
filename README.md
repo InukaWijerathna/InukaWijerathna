@@ -9,6 +9,21 @@
 <div align="left">
 <a href="mailto:inukawijerathna210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/inukawijerathna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/InukaWijerathna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+
+---
+
+### Featured Projects
+<div align="center">
+
+| Project | Description | Links |
+|---|---|---|
+| **Alexandria** | Library Management System — Node.js/React + SQLite | [Demo](https://inukawijerathna.me/Alexandria/) · [Repo](https://github.com/InukaWijerathna/Alexandria) |
+| **AUREM** | Full-stack e-commerce platform — MERN stack | [Demo](https://aurem-store.vercel.app/) · [Repo](https://github.com/InukaWijerathna/AUREM) |
+| **LogLense** | Smart CLI log parser, filter, and watcher | [Repo](https://github.com/InukaWijerathna/LogLense) |
+| **FNPP-Analyzer** | Windows host-based threat detector with a TUI | [Repo](https://github.com/InukaWijerathna/FNPP-Analyzer) |
+
+</div>
 
 ---
 
